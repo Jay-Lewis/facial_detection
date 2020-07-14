@@ -1,2 +1,3 @@
 *.idea/
 __pycache__/
+Mnist_example/Justin/*
